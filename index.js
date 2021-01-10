@@ -12,7 +12,7 @@ const dbl = new DBL(config.dblToken);
 bot.commands = new Discord.Collection();
 bot.cooldown = new Discord.Collection();
 
-raven.config('https://f453d94c55374226baa42fa265751846@sentry.io/1256119').install();
+raven.config('').install();
 
 http.createServer(function(req, res) {
   //webMod.run(req, res);
