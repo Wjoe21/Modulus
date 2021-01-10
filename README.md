@@ -6,4 +6,11 @@ Modulus is your go-to Discord bot for a powerful verification process for player
 Modulus is.
 
 ## Dependencies
-- test
+- Node version 10.7 or better
+- Rethinkdb
+- Bloxy
+- Raven
+
+### Discrepancies 
+This bot is not designed for self hosting, but merely showcasing the infrastructure of the bot and allowing pull requests for future recommendations. 
+This bot was also designed as a fun little project during the Roblox verification bot craze. It was only shipped for production in 50 servers
