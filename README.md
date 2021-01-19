@@ -9,7 +9,7 @@ Modulus is.
 - Node version 10.7 or better
 - Rethinkdb
 - Bloxy
-- Raven
+- Sentry
 
 ### Discrepancies 
 This bot is not designed for self hosting, but merely showcasing the infrastructure of the bot and allowing pull requests for future recommendations. 
