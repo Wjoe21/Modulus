@@ -6,8 +6,8 @@ Modulus is your go-to Discord bot for a powerful verification process for player
 Modulus is.
 
 ## Dependencies
-- Node version 10.7 or better
-- Rethinkdb
+- Node version 12 or better
+- RethinkDB
 - Bloxy
 - Sentry
 
